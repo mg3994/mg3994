@@ -22,6 +22,10 @@ src="https://img.shields.io/github/followers/mg3994?logo=github&style=for-the-ba
 src="https://img.shields.io/twitter/follow/manish3994?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/mg3994" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/mg3994?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+### Youtube Stats
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC1WAYyCbaUTY1nR_LV1Qiag?style=for-the-badge)
+* [![Watch the videos](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://m.youtube.com/antinna)
+
 
 ### Skills
 
