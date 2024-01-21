@@ -26,6 +26,11 @@ src="https://img.shields.io/twitch/status/mg3994?logo=twitchsx&style=for-the-bad
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC1WAYyCbaUTY1nR_LV1Qiag?style=for-the-badge)
 [![Watch the videos](https://yt3.googleusercontent.com/S1VT7MvkO2UHFxAlKfXEfjOiEu7m2GFC-6yad6XEL_fvUbIoHn-jOpIgQLl7Fj2zEZnwGxrc8K0=s176-c-k-c0x00ffffff-no-rj)](https://m.youtube.com/antinna)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1WAYyCbaUTY1nR_LV1Qiag?style=for-the-badge&link=https://m.youtube.com/antinna)](https://m.youtube.com/antinna)
+<p align="left">
+  <a href="https://www.youtube.com/channel/UC1WAYyCbaUTY1nR_LV1Qiag?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  </p>
+
+  
 
 
 
