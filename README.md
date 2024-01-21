@@ -12,7 +12,8 @@ Hire me
 * 🚀  I'm currently working on [Flutter Projects](https://github.com/mg3994)
 * 🧠  I'm learning Web3 , Rust , MOJO
 * 🤝  I'm open to collaborating on Any Issues , in FLUTTER
-* ⚡  Running a YouTube Channel
+* ⚡  Running a YouTube Channel having ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1WAYyCbaUTY1nR_LV1Qiag)
+
 
 <a href="https://www.github.com/mg3994" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mg3994?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/manish3994" target="_blank" rel="noreferrer"><img
