@@ -12,7 +12,7 @@ Hire me
 * 🚀  I'm currently working on [Flutter Projects](https://github.com/mg3994)
 * 🧠  I'm learning Web3 , Rust , MOJO
 * 🤝  I'm open to collaborating on Any Issues , in FLUTTER
-* ⚡  Running a YouTube Channel having ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1WAYyCbaUTY1nR_LV1Qiag?style=for-the-badge&link=https%3A%2F%2Fm.youtube.com%2Fantinna)
+* ⚡  Running a YouTube Channel having ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1WAYyCbaUTY1nR_LV1Qiag?style=for-the-badge&link=https://m.youtube.com/antinna)
 
 
 
