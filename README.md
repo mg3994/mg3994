@@ -12,7 +12,7 @@ Hire me
 * 🚀  I'm currently working on [Flutter Projects](https://github.com/mg3994)
 * 🧠  I'm learning Web3 , Rust , MOJO
 * 🤝  I'm open to collaborating on Any Issues , in FLUTTER
-* ⚡  Running a YouTube Channel having ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1WAYyCbaUTY1nR_LV1Qiag?style=for-the-badge&link=https://m.youtube.com/antinna)
+* ⚡  Running a YouTube Channel having [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1WAYyCbaUTY1nR_LV1Qiag?style=for-the-badge&link=https://m.youtube.com/antinna)](https://m.youtube.com/antinna)
 
 
 
@@ -24,7 +24,9 @@ src="https://img.shields.io/twitter/follow/manish3994?logo=twitter&style=for-the
 src="https://img.shields.io/twitch/status/mg3994?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Youtube Stats
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC1WAYyCbaUTY1nR_LV1Qiag?style=for-the-badge)
-* [![Watch the videos](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://m.youtube.com/antinna)
+[![Watch the videos](https://yt3.googleusercontent.com/S1VT7MvkO2UHFxAlKfXEfjOiEu7m2GFC-6yad6XEL_fvUbIoHn-jOpIgQLl7Fj2zEZnwGxrc8K0=s176-c-k-c0x00ffffff-no-rj)](https://m.youtube.com/antinna)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1WAYyCbaUTY1nR_LV1Qiag?style=for-the-badge&link=https://m.youtube.com/antinna)](https://m.youtube.com/antinna)
+
 
 
 ### Skills
