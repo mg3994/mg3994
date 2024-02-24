@@ -2,6 +2,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 [Bounty Program by DANE MACKIER ](https://ticketstacker.substack.com/p/bounty-claimed-permission-accept/comments)
 
+🎉 Exciting News! 🎉 <br>
+I am thrilled to share that I've won the bounty hosted by FilledStacks Youtube Creator Dane Mackier, totaling $250! 🌟 Thanks to their support and recognition of my contributions, I now have this bounty credited to my GitHub Sponsor account. 💰💼
+I'm incredibly grateful for this opportunity and the trust they've placed in my work. It's a fantastic feeling to be acknowledged in the developer community! 🚀
+If you're curious about the details of this bounty and how it was claimed, check out the post here: [Bounty Claimed: Permission Accept ](https://ticketstacker.substack.com/p/bounty-claimed-permission-accept)
+Thank you once again to FilledStacks and Dane Mackier for this opportunity! Looking forward to more exciting collaborations ahead! 🌟 #BountyWinner #GitHubSponsor #Manishmg3994 #DeveloperCommunity #Antinna #FilledStacks  
+
+Also if you wish to explore our Apps do visit play store , [Here](https://play.google.com/store/apps/dev?id=7417258411166270372)
+
+And Do sponsor Us on our [Sponsor Page](https://github.com/Manishmg3994)
+
 Flutter Dev.
 ------------
 
