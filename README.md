@@ -31,8 +31,7 @@ Hire me
 <a href="https://www.github.com/mg3994" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mg3994?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/manish3994" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/manish3994?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/mg3994" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/mg3994?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+/></a>
 ### Youtube Stats
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC1WAYyCbaUTY1nR_LV1Qiag?style=for-the-badge)
 [![Watch the videos](https://yt3.googleusercontent.com/S1VT7MvkO2UHFxAlKfXEfjOiEu7m2GFC-6yad6XEL_fvUbIoHn-jOpIgQLl7Fj2zEZnwGxrc8K0=s176-c-k-c0x00ffffff-no-rj)](https://m.youtube.com/antinna)
